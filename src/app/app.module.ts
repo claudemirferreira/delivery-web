@@ -26,7 +26,6 @@ import { MatListModule } from '@angular/material/list';
     ListaEntregaComponent,
     ListaUsuarioComponent,
     LoginComponent,
-    DashboardComponent,
     NavigationComponent
   ],
   imports: [
